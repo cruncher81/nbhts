@@ -1,0 +1,10 @@
+@media only screen and (min-width: 768px) {
+  .card .team-container p {
+    padding: 0 13px;
+  }
+
+  .team-container h4,
+  .team-container p {
+    text-align: center;
+  }
+}

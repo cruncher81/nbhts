@@ -1,0 +1,18 @@
+@media only screen and (min-width: 768px) {
+  .comingSoon {
+    text-align: center;
+  }
+
+  .imageWrapper {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .btn {
+    display: inline-block;
+    background-color: #026534;
+    color: #fff;
+  }
+}

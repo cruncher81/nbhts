@@ -1,0 +1,53 @@
+@media only screen and (min-width: 768px) {
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+  }
+
+  .admissionsMain {
+    margin-top: 4.8rem;
+    margin-bottom: 4.8rem;
+  }
+
+  .wrapper {
+    margin-right: 2.4rem;
+    padding: 0 1.6rem;
+  }
+
+  .admissionsMain h1 {
+    padding-top: 2.4rem;
+  }
+
+  .admissionsMain .grid {
+    display: grid;
+    grid-template-columns: 75% auto;
+    align-items: flex-start;
+  }
+
+  .docListContainer {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    padding: 2.4rem 0;
+    margin: 4.8rem 0;
+  }
+
+  .docListContainer h3 {
+    background-color: #026534;
+    color: #fff;
+    text-align: center;
+  }
+
+  .docListContainer a {
+    font-weight: bold;
+    font-size: 1.92rem;
+  }
+
+  .docList {
+    padding: 0 2rem;
+  }
+
+  h1.bBold {
+    font-weight: bold;
+  }
+}
