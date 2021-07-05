@@ -69,7 +69,7 @@ const members = [
 
 function TeamMemberCard() {
   return (
-    <div className={`container ${styles.mainContainer}`}>
+    <div className={styles.mainContainer}>
       <h1>Meet The Team</h1>
       <div className={styles.teamContainer}>
         <div className={styles.gridContainer}>
