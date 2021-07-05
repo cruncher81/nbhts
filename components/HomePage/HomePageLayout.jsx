@@ -5,7 +5,7 @@ import styles from './HomePageLayout.module.css';
 
 function HomePageLayout({ children }) {
   return (
-    <div className='container'>
+    <div>
       <div className={styles.homeImage}>
         <Image
           src='/images/nbwelcome.png'

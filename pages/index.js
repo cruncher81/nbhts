@@ -16,7 +16,7 @@ function HomePage() {
       </Head>
       <HomePageLayout>
         <section className='main'>
-          <div className={`container ${styles.mainContainer}`}>
+          <div className={styles.mainContainer}>
             <h1 className={styles.title}>Welcome to Northbrook Heights</h1>
             <div className={styles.grid}>
               <div className={styles.leftSide}>
